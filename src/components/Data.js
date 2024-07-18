@@ -17,7 +17,8 @@ let data = [
     id: 1,
     category: 1,
     title: '노트북',
-    poster: '',
+    poster:
+      'https://drive.google.com/file/d/1jxhU4LnGwteWZKq74LfQIljAfJrpzxGn/view?usp=sharing/romance02.jpg',
     age: '15',
     startYear: '2004',
     story:
