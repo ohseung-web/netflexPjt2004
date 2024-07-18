@@ -3,7 +3,8 @@ let data = [
     id: 0,
     category: 1,
     title: '타이타닉',
-    poster: '',
+    poster:
+      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance01.jpg',
     age: '15',
     startYear: '1998',
     story:
@@ -18,7 +19,7 @@ let data = [
     category: 1,
     title: '노트북',
     poster:
-      'https://drive.google.com/file/d/1jxhU4LnGwteWZKq74LfQIljAfJrpzxGn/view?usp=sharing/romance02.jpg',
+      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance02.jpg',
     age: '15',
     startYear: '2004',
     story:
@@ -32,7 +33,8 @@ let data = [
     id: 2,
     category: 1,
     title: '물랑 루즈',
-    poster: '',
+    poster:
+      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance03.jpg',
     age: '15',
     startYear: '2001',
     story:
@@ -46,7 +48,8 @@ let data = [
     id: 3,
     category: 1,
     title: '원스',
-    poster: '',
+    poster:
+      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance04.jpg',
     age: '전체',
     startYear: '2006',
     story:
@@ -60,7 +63,8 @@ let data = [
     id: 4,
     category: 1,
     title: '원 데이',
-    poster: '',
+    poster:
+      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance05.jpg',
     age: '15',
     startYear: '2001',
     story:
@@ -74,7 +78,8 @@ let data = [
     id: 5,
     category: 1,
     title: '플립',
-    poster: '',
+    poster:
+      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance06.jpg',
     age: '12',
     startYear: '2010',
     story:
@@ -88,7 +93,8 @@ let data = [
     id: 6,
     category: 1,
     title: '이프 온리',
-    poster: '',
+    poster:
+      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance07.jpg',
     age: '12',
     startYear: '2004',
     story:
@@ -102,7 +108,8 @@ let data = [
     id: 7,
     category: 1,
     title: '서약',
-    poster: '',
+    poster:
+      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance08.jpg',
     age: '15',
     startYear: '2012',
     story:
@@ -116,7 +123,8 @@ let data = [
     id: 8,
     category: 1,
     title: '이터널 선샤인',
-    poster: '',
+    poster:
+      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance09.jpg',
     age: '15',
     startYear: '2004',
     story:
@@ -130,7 +138,8 @@ let data = [
     id: 9,
     category: 1,
     title: '실버라이닝 플레이북',
-    poster: '',
+    poster:
+      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance10.jpg',
     age: '청소년관람불가',
     startYear: '2012',
     story:
