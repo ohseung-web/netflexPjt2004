@@ -4,7 +4,7 @@ let data = [
     category: 1,
     title: '타이타닉',
     poster:
-      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance01.jpg',
+      'https://github.com/user-attachments/assets/f71db6f2-8764-4f6e-b4e3-230e0d08bd41',
     age: '15',
     startYear: '1998',
     story:
@@ -19,7 +19,7 @@ let data = [
     category: 1,
     title: '노트북',
     poster:
-      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance02.jpg',
+      'https://github.com/user-attachments/assets/938e2af6-6d68-424c-8796-5f10ab498f4c',
     age: '15',
     startYear: '2004',
     story:
@@ -34,7 +34,7 @@ let data = [
     category: 1,
     title: '물랑 루즈',
     poster:
-      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance03.jpg',
+      'https://github.com/user-attachments/assets/1bfc08f9-bc6b-45ca-bb6b-8b483b1fd6a4',
     age: '15',
     startYear: '2001',
     story:
@@ -49,7 +49,7 @@ let data = [
     category: 1,
     title: '원스',
     poster:
-      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance04.jpg',
+      'https://github.com/user-attachments/assets/55f33f99-2005-479f-8159-53a820ae0ec7',
     age: '전체',
     startYear: '2006',
     story:
@@ -64,7 +64,7 @@ let data = [
     category: 1,
     title: '원 데이',
     poster:
-      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance05.jpg',
+      'https://github.com/user-attachments/assets/9d2df50f-b520-4365-8a5d-29a54fc2e9e5',
     age: '15',
     startYear: '2001',
     story:
@@ -79,7 +79,7 @@ let data = [
     category: 1,
     title: '플립',
     poster:
-      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance06.jpg',
+      'https://github.com/user-attachments/assets/4407e35a-22c0-49fd-9ff8-10eb61ab87f4',
     age: '12',
     startYear: '2010',
     story:
@@ -94,7 +94,7 @@ let data = [
     category: 1,
     title: '이프 온리',
     poster:
-      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance07.jpg',
+      'https://github.com/user-attachments/assets/b3023ccd-efcc-4b61-9ec3-c9d7f6481e31',
     age: '12',
     startYear: '2004',
     story:
@@ -109,7 +109,7 @@ let data = [
     category: 1,
     title: '서약',
     poster:
-      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance08.jpg',
+      'https://github.com/user-attachments/assets/cf5bd619-4a68-4960-8c21-e3e89cf7fa42',
     age: '15',
     startYear: '2012',
     story:
@@ -124,7 +124,7 @@ let data = [
     category: 1,
     title: '이터널 선샤인',
     poster:
-      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance09.jpg',
+      'https://github.com/user-attachments/assets/6f63e54b-6f09-467d-824b-8a36c27b77fb',
     age: '15',
     startYear: '2004',
     story:
@@ -137,16 +137,18 @@ let data = [
   {
     id: 9,
     category: 1,
-    title: '실버라이닝 플레이북',
+    title: '맘마미아',
     poster:
-      'https://github.com/ohseung-web/netflexPjt2004/blob/main/src/img/romance10.jpg',
-    age: '청소년관람불가',
-    startYear: '2012',
+      'https://github.com/user-attachments/assets/48a0f9e8-6c80-4fb9-800b-e4589409c200',
+    age: '12',
+    startYear: '2008',
     story:
-      '아내의 외도를 목격하고 한 순간 감정이 폭발해 아내, 직장, 집은 물론, 정신까지 잃게 된 이 남자.',
-    movieTime: '122',
-    cast: '브래들리 쿠퍼, 제니퍼 로렌스',
-    director: '데이비드 O. 러셀',
+      '그리스의 작은 섬에서 엄마 도나(메릴 스트립)와 살고 있는 소피(아만다 시프리드)는 행복한 결혼을 앞둔 신부.그러나 완벽한 결혼을 꿈꾸는 그녀의 계획에 흠이 있다면 결혼식에 입장할 손을 잡고 아빠가 없다는 것!',
+    movieTime: '108',
+    cast: '메릴 스트립, 콜린 퍼스',
+    director: '필리다 로이드',
     // video : ''
   },
 ];
+
+export default data;
