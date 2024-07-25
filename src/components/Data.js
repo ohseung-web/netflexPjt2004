@@ -149,10 +149,10 @@ let data = [
     director: '필리다 로이드',
     // video : ''
   },
-  // horror --yuna
+  // horror --yuna - category -3
   {
-    id: 10,
-    category: "3",
+    id: 20,
+    category: 3,
     title: "곡성",
     poster:
       'https://github.com/user-attachments/assets/03a970ea-2231-4447-ae7a-8bce5b0a2895',
@@ -165,8 +165,8 @@ let data = [
     //video: "video_url_1"
   },
   {
-    id: 11,
-    category: "3",
+    id: 21,
+    category: 3,
     title: "파묘",
     poster:
       'https://github.com/user-attachments/assets/fe115cc4-3dcd-4c57-a39d-9c93d12df950',
@@ -179,7 +179,7 @@ let data = [
     //video: "video_url_2"
   },
   {
-    id: 12,
+    id: 22,
     category: "액션, 드라마, 공포",
     title: "조커",
     poster:
@@ -193,8 +193,8 @@ let data = [
     //video: "video_url_3"
   },
   {
-    id: 13,
-    category: "3",
+    id: 23,
+    category: 3,
     title: "기생충",
     poster:
       'https://github.com/user-attachments/assets/d29bda67-4efa-43bf-9bd0-f696f09099df',
@@ -207,8 +207,8 @@ let data = [
     //video: "video_url_4"
   },
   {
-    id: 14,
-    category: "3",
+    id: 24,
+    category: 3,
     title: "탈출-프로젝트 사일런스",
     poster:
       'https://github.com/user-attachments/assets/027dfa86-e791-45e0-aadc-8ecbc0fb88f5',
@@ -221,8 +221,8 @@ let data = [
     //video: "video_url_5"
   },
   {
-    id: 15,
-    category: "3",
+    id: 25,
+    category: 3,
     title: "메간",
     poster:
       'https://github.com/user-attachments/assets/8f666ace-274a-4553-b895-53d15c87d24a',
@@ -235,8 +235,8 @@ let data = [
     //video: "video_url_6"
   },
   {
-    id: 16,
-    category: "3",
+    id: 26,
+    category: 3,
     title: "더넌",
     poster:
       'https://github.com/user-attachments/assets/11c2e6ac-e3d5-441d-ae47-09d5b6994bef',
@@ -249,8 +249,8 @@ let data = [
     //video: "video_url_7"
   },
   {
-    id: 17,
-    category: "3",
+    id: 27,
+    category: 3,
     title: "컨저링",
     poster:
       'https://github.com/user-attachments/assets/25311b10-fe3a-40df-9075-1ae643133426',
@@ -263,8 +263,8 @@ let data = [
     //video: "video_url_8"
   },
   {
-    id: 18,
-    category: "3",
+    id: 28,
+    category: 3,
     title: "메가로돈2",
     poster:
       'https://github.com/user-attachments/assets/c69a36c8-df54-41df-8d4d-eff4a28a00d7',
@@ -277,8 +277,8 @@ let data = [
     //video: "video_url_9"
   },
   {
-    id: 19,
-    category: "3",
+    id: 29,
+    category: 3,
     title: "쥬라기월드",
     poster:
       'https://github.com/user-attachments/assets/f8921eab-a702-4b9a-af8e-acf5f41e7931',
