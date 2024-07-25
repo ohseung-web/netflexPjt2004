@@ -149,6 +149,148 @@ let data = [
     director: '필리다 로이드',
     // video : ''
   },
+  // horror --yuna
+  {
+    id: 10,
+    category: "3",
+    title: "곡성",
+    poster:
+      'https://github.com/user-attachments/assets/03a970ea-2231-4447-ae7a-8bce5b0a2895',
+    age: "15+",
+    startYear: "2016",
+    story: "한 마을에 의문의 사건이 발생하며, 경찰과 마을 주민들이 이를 해결하기 위해 고군분투하는 이야기.",
+    movieTime: "156",
+    cast: "곽도원, 황정민, 천우희, 김환희",
+    director: "나홍진",
+    //video: "video_url_1"
+  },
+  {
+    id: 11,
+    category: "3",
+    title: "파묘",
+    poster:
+      'https://github.com/user-attachments/assets/fe115cc4-3dcd-4c57-a39d-9c93d12df950',
+    age: "18+",
+    startYear: "2019",
+    story: "고대의 묘지를 파헤치면서 벌어지는 끔찍한 일들과 이를 막기 위한 사투를 그린 이야기.",
+    movieTime: "98",
+    cast: "김혜수, 박성웅, 김영민, 이정은",
+    director: "정식",
+    //video: "video_url_2"
+  },
+  {
+    id: 12,
+    category: "액션, 드라마, 공포",
+    title: "조커",
+    poster:
+      'https://github.com/user-attachments/assets/1e963e19-64d6-4eeb-a822-f334d37fc053',
+    age: "18+",
+    startYear: "2019",
+    story: "고담시의 소외된 남자가 광기 어린 조커로 변모해가는 과정을 그린 영화.",
+    movieTime: "122",
+    cast: "호아킨 피닉스, 로버트 드니로, 재지 비츠, 프랜시스 콘로이",
+    director: "토드 필립스",
+    //video: "video_url_3"
+  },
+  {
+    id: 13,
+    category: "3",
+    title: "기생충",
+    poster:
+      'https://github.com/user-attachments/assets/d29bda67-4efa-43bf-9bd0-f696f09099df',
+    age: "15+",
+    startYear: "2019",
+    story: "가난한 가족이 부자 가족의 집에 들어가면서 벌어지는 이야기를 그린 블랙 코미디.",
+    movieTime: "132",
+    cast: "송강호, 이선균, 조여정, 최우식",
+    director: "봉준호",
+    //video: "video_url_4"
+  },
+  {
+    id: 14,
+    category: "3",
+    title: "탈출-프로젝트 사일런스",
+    poster:
+      'https://github.com/user-attachments/assets/027dfa86-e791-45e0-aadc-8ecbc0fb88f5',
+    age: "15+",
+    startYear: "2024",
+    story: "붕괴 위기의 공항대교, 생존자 전원이 타겟이 되었다. 사상최악의 연쇄 지난 발생, 살아남기 위한 극한의 사투를 그린 영화.",
+    movieTime: "96",
+    cast: "이선균, 주지훈, 김희원, 문성근",
+    director: "김태곤",
+    //video: "video_url_5"
+  },
+  {
+    id: 15,
+    category: "3",
+    title: "메간",
+    poster:
+      'https://github.com/user-attachments/assets/8f666ace-274a-4553-b895-53d15c87d24a',
+    age: "18+",
+    startYear: "2022",
+    story: "인공지능 로봇 메간이 살인 본능을 드러내며 벌어지는 공포 스릴러.",
+    movieTime: "102",
+    cast: "앨리슨 윌리엄스, 바이올렛 맥그로우, 로니 챙, 에이미 도날드",
+    director: "제라드 존스톤",
+    //video: "video_url_6"
+  },
+  {
+    id: 16,
+    category: "3",
+    title: "더넌",
+    poster:
+      'https://github.com/user-attachments/assets/11c2e6ac-e3d5-441d-ae47-09d5b6994bef',
+    age: "18+",
+    startYear: "2018",
+    story: "저주받은 수녀가 부활하며 발생하는 끔찍한 사건들을 그린 공포 영화.",
+    movieTime: "96",
+    cast: "타이사 파미가, 데미안 비치르, 보니 아론스, 조나스 블로켓",
+    director: "코린 하디",
+    //video: "video_url_7"
+  },
+  {
+    id: 17,
+    category: "3",
+    title: "컨저링",
+    poster:
+      'https://github.com/user-attachments/assets/25311b10-fe3a-40df-9075-1ae643133426',
+    age: "15+",
+    startYear: "2013",
+    story: "실화를 바탕으로 한 퇴마사의 이야기와 그들이 마주한 공포스러운 사건들.",
+    movieTime: "112",
+    cast: "베라 파미가, 패트릭 윌슨, 릴리 테일러, 론 리빙스턴",
+    director: "제임스 완",
+    //video: "video_url_8"
+  },
+  {
+    id: 18,
+    category: "3",
+    title: "메가로돈2",
+    poster:
+      'https://github.com/user-attachments/assets/c69a36c8-df54-41df-8d4d-eff4a28a00d7',
+    age: "15+",
+    startYear: "2023",
+    story: "심해에서 거대한 메가로돈 상어가 부활하여 해양 생태계를 위협하는 공포 영화.",
+    movieTime: "103",
+    cast: "제이슨 스타뎀, 리빙빙, 레인 윌슨, 루비 로즈",
+    director: "벤 휘틀리",
+    //video: "video_url_9"
+  },
+  {
+    id: 19,
+    category: "3",
+    title: "쥬라기월드",
+    poster:
+      'https://github.com/user-attachments/assets/f8921eab-a702-4b9a-af8e-acf5f41e7931',
+    age: "12+",
+    startYear: "2015",
+    story: "쥬라기 공원에서 탈출한 공룡들이 펼치는 모험과 공포를 그린 영화.",
+    movieTime: "124",
+    cast: "크리스 프랫, 브라이스 달라스 하워드, 빈센트 도노프리오, 타이 심킨스",
+    director: "콜린 트레보로우",
+    //video: "video_url_10"
+  }
+  //horror - end
 ];
 
 export default data;
