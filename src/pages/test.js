@@ -4,6 +4,7 @@ import Data from '../components/Data';
 
 export default function Test() {
   let [movieData] = useState(Data);
+  let [a, seta] = useState(0);
   return (
     <div
       style={{
