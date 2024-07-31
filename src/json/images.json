@@ -1,0 +1,10 @@
+{
+    "logo":{
+        "src":"./img/logo.png",
+        "alt":"netflex logo"
+    },
+    "poster_horror1":{
+        "src":"./img/horror01.jpg",
+        "alt":"horror01"
+    }
+}
