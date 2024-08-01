@@ -1,0 +1,27 @@
+.heroBanner {
+    background-size:cover;
+    background-position:center;
+    height:80vh;
+    position:relative;
+}
+.heroBanner .info {
+    position:absolute; left:25px; top:30%;
+}
+.heroBanner .info * {color:#fff;}
+.heroBanner .info h3 {font-size:5rem;}
+.heroBanner .info .story {
+    width:500px;
+}
+.heroBanner .info .link {margin-top:20px;}
+.heroBanner .info .link a {
+    display:inline-block; border-radius:5px;
+    background:#fff; padding:10px 30px;
+}
+.heroBanner .info .link a.playBtn {color:#000; margin-right:10px;}
+.heroBanner .info .link a.detailInfo {background:rgba(0,0,0,0.5);}
+.heroBanner .movieAge {
+    position:absolute; right:0; top:80%;
+    background:rgb(255, 196, 0); 
+    font-weight:900; font-size:1.3rem; 
+    padding:5px 30px 5px 10px;
+}
