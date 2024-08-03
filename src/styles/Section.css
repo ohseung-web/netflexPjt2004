@@ -1,0 +1,27 @@
+.movieWrap {
+  width: 1800px;
+  margin: 220px auto;
+  /* display: flex;
+  justify-content: space-between; */
+}
+.movieWrap section {
+  width: calc(100% - 130px);
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+.movieWrap section .movieItem {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.movieWrap section .movieItem img {
+  width: 280px;
+}
+.movieWrap .cataName {
+  width: 100px;
+  height: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(191, 190, 190);
+  margin: 10px;
+}
